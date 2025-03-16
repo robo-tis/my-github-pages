@@ -20,7 +20,7 @@ Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of b
 
 # Tips voor het communiceren met een kind met autisme
 
-## dit ** vermijd ** je beter:
+## dit **vermijd** je beter:
 
 * gebruik geen beeldspraak, zoals metaforen
 
