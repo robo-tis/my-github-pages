@@ -4,25 +4,27 @@
 @import "{{ site.theme }}";
 
 .myButton {
-	box-shadow:inset 0px -3px 7px 0px #29bbff;
-	background:linear-gradient(to bottom, #2dabf9 5%, #0688fa 100%);
-	background-color:#2dabf9;
-	border-radius:3px;
-	border:1px solid #0b0e07;
+	box-shadow: 1px -4px 6px 2px #fff6af;
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	background-color:#ffec64;
+	border-radius:7px;
+	border:2px solid #ffaa22;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color:#333333;
 	font-family:Arial;
-	font-size:15px;
-	padding:9px 23px;
+	font-size:16px;
+	font-weight:bold;
+	padding:10px 25px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #263666;
 }
 .myButton:hover {
-	background:linear-gradient(to bottom, #0688fa 5%, #2dabf9 100%);
-	background-color:#0688fa;
+	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+	background-color:#ffab23;
 }
 .myButton:active {
 	position:relative;
 	top:1px;
 }
+
+        
