@@ -9,11 +9,11 @@ title: Autisme
 # Waar kun je op letten?
 
 * **Voorspelbaarheid**
-Mensen met autisme vinden het fijn om te weten wat ze kunnen verwachten. Als iemand gewend is om elke dag om precies zes uur 's avonds te eten, houd er dan rekening mee dat diegene het misschien wel lastig vindt als jij pas om vijf over zes aanschuift.
+Mensen met autisme vinden het fijn om te weten wat ze kunnen verwachten. Als iemand gewend is om elke dag om precies 12 uur 's amiddags te eten, houd er dan rekening mee dat diegene het misschien wel lastig vindt als jij pas om 3 over 12 aanschuift.
 
 * **postieve kanten**
-Autisme heeft ook sterke kanten, zoals goed kunnen onderzoeken of creatieve oplossingen bedenken. Vaak hebben mensen met autisme ook veel oog voor detail. Bekijk samen waar iemand goed in is en hoe dat is in te zetten.
+Autisme heeft ook sterke kanten, zoals goed kunnen onderzoeken of creatieve oplossingen bedenken. Vaak hebben mensen met autisme ook veel oog voor detail. 
 
 * **duidelijk communiceren**
-Autisme heeft ook sterke kanten, zoals goed kunnen onderzoeken of creatieve oplossingen bedenken. Vaak hebben mensen met autisme ook veel oog voor detail. Bekijk samen waar iemand goed in is en hoe dat is in te zetten.
+Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of beeldspraak te begrijpen. Ze nemen je woorden soms heel letterlijk. Het kan voor mensen met autisme ook moeilijk zijn om hoofd- en bijzaken van elkaar te onderscheiden. Maak daarom duidelijk wat jouw punt is. Praat rustig, duidelijk, direct en precies.
 
