@@ -18,4 +18,4 @@ Autisme heeft ook sterke kanten, zoals goed kunnen onderzoeken of creatieve oplo
 * **duidelijk communiceren**
 Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of beeldspraak te begrijpen. Ze nemen je woorden soms heel letterlijk. Het kan voor mensen met autisme ook moeilijk zijn om hoofd- en bijzaken van elkaar te onderscheiden. Maak daarom duidelijk wat jouw punt is. Praat rustig, duidelijk, direct en precies.
 
-[Wat is Asperger?](asperger.html)
+<a href="asperger.html" class="myButton">Wat is Asperger?</a>
