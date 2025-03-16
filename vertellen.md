@@ -7,3 +7,5 @@ title: Hoe vertellen
 
 
 ## je kunt natuurlijk ook zelf brain bloks kopen
+
+<a href="index.html" class="myButton">hoe vertellen</a>
