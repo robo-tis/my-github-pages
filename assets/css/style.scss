@@ -4,19 +4,20 @@
 @import "{{ site.theme }}";
 
 .myButton {
-	box-shadow: 1px -4px 6px 2px #fff6af;
+	box-shadow: 0px -4px 0px 0px #fff6af;
 	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
 	background-color:#ffec64;
-	border-radius:7px;
+	border-radius:9px;
 	border:2px solid #ffaa22;
 	display:inline-block;
 	cursor:pointer;
 	color:#333333;
 	font-family:Arial;
-	font-size:16px;
+	font-size:20px;
 	font-weight:bold;
-	padding:10px 25px;
+	padding:8px 22px;
 	text-decoration:none;
+	text-shadow:0px 1px 3px #ffee66;
 }
 .myButton:hover {
 	background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
@@ -27,4 +28,5 @@
 	top:1px;
 }
 
+        
         
