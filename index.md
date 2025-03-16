@@ -30,7 +30,7 @@ Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of b
 
 * zorg ervoor dat er zo min mogelijk afleiding is, zoals televisie
  
-# **wat** wel werkt:
+# wat **wel* werkt:
 
 * bewaar voldoende fysieke afstand tussen u en het kind
 
@@ -47,4 +47,13 @@ Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of b
 * focus op de talenten/belangstelling van het kind
 
 # tips voor emotionele uitbarstingen 
+
+## Blijf kalm. Dit geldt voor alle omgang met een kind met autisme. Een uitbarsting is een teken dat het kind teveel prikkels heeft binnengekregen (zowel intern als extern) en zich afsluit van de omgeving. Kwaad worden of in paniek reageren heeft dus geen zin.
+
+## ** Bevindt u zich in een drukke omgeving?** 
+Probeer uw kind niet mee te nemen naar een rustiger plek. Praat op kalme toon tegen uw kind, geef hem ruimte en informeer aanwezigen over zijn autisme.
+
+## Vraag uw kind na afloop in simpele, vriendelijke taal over zijn gedachten. Probeer uit te vinden wat de triggers zijn van de uitbarstingen om ze te voorkomen.
+
+## Als uw kind een gevaar vormt voor zichzelf of anderen, kunt u soms niet anders dan fysiek in te grijpen. Maar roep eerst iemand erbij.
 
