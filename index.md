@@ -30,7 +30,7 @@ Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of b
 
 * zorg ervoor dat er zo min mogelijk afleiding is, zoals televisie
  
-# wat **wel* werkt:
+# wat **wel** werkt:
 
 * bewaar voldoende fysieke afstand tussen u en het kind
 
