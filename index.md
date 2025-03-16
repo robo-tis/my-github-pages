@@ -18,4 +18,33 @@ Autisme heeft ook sterke kanten, zoals goed kunnen onderzoeken of creatieve oplo
 * **duidelijk communiceren**
 Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of beeldspraak te begrijpen. Ze nemen je woorden soms heel letterlijk. Het kan voor mensen met autisme ook moeilijk zijn om hoofd- en bijzaken van elkaar te onderscheiden. Maak daarom duidelijk wat jouw punt is. Praat rustig, duidelijk, direct en precies.
 
-<a href="asperger.html" class="myButton">Wat is Asperger?</a>
+# Tips voor het communiceren met een kind met autisme
+
+## dit ** vermijd ** je beter:
+
+* gebruik geen beeldspraak, zoals metaforen
+
+* toon geen heftige emoties
+
+* raak het kind niet aan
+
+* zorg ervoor dat er zo min mogelijk afleiding is, zoals televisie
+ 
+# **wat** wel werkt:
+
+* bewaar voldoende fysieke afstand tussen u en het kind
+
+* bewaar voldoende fysieke afstand tussen u en het kind
+
+* fysiek contact, oogcontact en nabijheid vormen vaak afleiding voor kinderen met autisme
+
+* orden uw gedachten voor u deze uitspreekt, zodat het kind uw informatie in hapklare stukjes en in logische volgorde tot zich   krijgt 
+
+* leg elke stap van uw denkproces uit, veel dingen zijn voor een kind met autisme niet vanzelfsprekend
+
+* gebruik tekeningetjes of geschetste schema’s om uw denkproces over te brengen. Moedig dit ook aan voor het kind.
+
+* focus op de talenten/belangstelling van het kind
+
+# tips voor emotionele uitbarstingen 
+
