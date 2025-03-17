@@ -53,7 +53,7 @@ Mensen met autisme vinden het soms moeilijk om dingen als sarcasme, grapjes of b
 # **Bevindt u zich in een drukke omgeving?** 
 Probeer uw kind mee te nemen naar een rustiger plek. Praat op kalme toon tegen uw kind, geef hem ruimte en informeer aanwezigen over zijn autisme.
 
-# Vraag uw kind na afloop in simpele, vriendelijke taal over zijn gedachten. Probeer uit te vinden wat de triggers zijn van de uitbarstingen om ze te voorkomen.
+# **Vraag uw kind na afloop in simpele, vriendelijke taal over zijn gedachten. Probeer uit te vinden wat de triggers zijn van de uitbarstingen om ze te voorkomen.**
 
 # **Als uw kind een gevaar vormt voor zichzelf of anderen, kunt u soms niet anders dan fysiek in te grijpen. Maar roep eerst iemand erbij.**
 
