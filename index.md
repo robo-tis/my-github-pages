@@ -55,13 +55,13 @@ Probeer uw kind mee te nemen naar een rustiger plek. Praat op kalme toon tegen u
 
 # **Als uw kind een gevaar vormt voor zichzelf of anderen, kunt u soms niet anders dan fysiek in te grijpen. Maar roep eerst iemand erbij.**
 
-## TIPS om te oontspannen 
+## TIPS om te ontspannen 
 
-# *zoek op youtube "Meditation Relax Music" en zet er een paar van op 
+# zoek op youtube "Meditation Relax Music" en zet er een paar van op 
 
 # waarom is ontspannen belangrijk?
 
-# **Iedereen heeft wel eens stress. Het hoort bij het leven.
+# Iedereen heeft wel eens stress. Het hoort bij het leven.
 Maar als u veel stress heeft, kunt u soms niet meer ontspannen. U kunt dan klachten krijgen. Door op tijd en genoeg te ontspannen, kunt u dat voorkomen en voelt u zich goed.
 
 Bij stress gaan uw ademhaling en hartslag sneller. Uw bloeddruk gaat omhoog en uw spieren spannen zich aan. Zo kunt u dingen presteren en snel reageren als het nodig is.
@@ -93,7 +93,9 @@ U kunt ook de films kijken over Je goed voelen en Minder stress.
 
 * je laten masseren
 
-* de tijd nemen om te koken en te eten
+* de tijd nemen om te koken en te eten 
+
+* bellen blaze
 
 
 <a href="vertellen.html" class="myButton">hoe vertellen</a>
