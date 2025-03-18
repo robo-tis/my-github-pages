@@ -8,7 +8,4 @@ title: Hoe vertellen
 
 ## je kunt natuurlijk ook zelf brain bloks kopen
 
-## als je kunt al wat ouder is dan vertel je het best gewoon met de term ASS en leg je het in je eigen woorden uit
-
-
 <a href="index.html" class="myButton">home</a>
